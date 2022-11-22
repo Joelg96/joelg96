@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joel 
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning programming and new technologies. I enjoy outdoor activities, CrossFit and Motorcycles
 - 🌱 I’m currently majoring in computer science
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jgoodewebsites@gmail.com
