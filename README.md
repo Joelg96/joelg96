@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joel 
-- 👀 I’m interested in learning programming and new technologies. I enjoy outdoor activities, CrossFit and Motorcycles
+- 👀 I’m interested in learning programming and new technologies. 
 - 🌱 I’m a full time student at UMGC majoring in Computer Science.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jgoode96@gmail.com
