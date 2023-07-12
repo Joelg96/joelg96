@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-My name is [Joel](mailto:joelgoode96@gmial.com) and I'm currently a full-time CS major. I am in the slow process of changing and reorganizing my GitHub, I know it is a mess.
+My name is [Joel](mailto:joelgoode96@gmial.com) and I'm currently a full-time CS major. 
+
+### I am in the slow process of changing and reorganizing my GitHub, I know it is a mess.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
