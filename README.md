@@ -13,4 +13,3 @@ My name is [Joel](mailto:joelgoode96@gmial.com) and I'm currently a full-time CS
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code%2C%20Java)
