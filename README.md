@@ -15,3 +15,4 @@ _I am in the slow process of changing and reorganizing my GitHub, I know it is a
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
