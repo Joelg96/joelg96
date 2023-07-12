@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 My name is [Joel](mailto:joelgoode96@gmial.com) and I'm currently a full-time CS major. 
 
-_I am in the slow process of changing and reorganizing my GitHub, I know it is a mess._
+_I am in the slow process of reorganizing my GitHub, I know it is a mess._
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
