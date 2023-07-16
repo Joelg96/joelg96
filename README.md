@@ -26,5 +26,7 @@ _I am in the slow process of reorganizing my GitHub...I know it is a mess._
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=red)
 
+
 🌟 Check out my repositories to explore some of my projects and contributions.
+
 Thank you for visiting my profile! I'm excited to connect and collaborate with you and other enthusiasts. Let's create something awesome together! 
