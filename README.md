@@ -3,9 +3,9 @@
 Joelg96/Joelg96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hello! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+# Hello! 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Joelg96" alt="Joelg96"/> </p>
 
-My name is [Joel](mailto:joelgoode96@gmial.com) and I'm currently a full-time CS major, expecting to graduate this Winter - 2023.🎓
+My name is [Joel](https://www.joelgoode-dev.com) I recently graduated as a CS major - 2023.🎓
 
 _I am in the slow process of reorganizing and adding content to my GitHub._ 🚀 
 
