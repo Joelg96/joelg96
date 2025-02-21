@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello! 👋
 
-My name is [Joel](https://www.joelgoode-dev.com) I recently graduated as a CS major - 2023.🎓
+My name is [Joel](https://www.joelgoode-dev.com).
 
 _I am in the slow process of reorganizing and adding content to my GitHub._ 🚀 
 
